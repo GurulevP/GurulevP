@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Petr Gurulev, i'm currently learning neural networks, python, c++, and networ software like cisco packet tracer. Used to program on python and c++, however just basic programs without any specialised libraties, so i'm just a newkid here.
+My name is Petr Gurulev, i'm currently learning neural networks, python, c++, and network software like cisco packet tracer. Used to program on python and c++, however just basic programs without any specialised libraties, so i'm just a newkid here.
 <!--
 **GurulevP/GurulevP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
